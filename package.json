@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-idscan",
+  "version": "1.0.0",
+  "description": "Fork of idscan wrapper plugin",
+  "main": "www/idscanner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbinzak/cordova-plugin-idscan.git"
+  },
+  "author": "jbinzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbinzak/cordova-plugin-idscan/issues"
+  },
+  "homepage": "https://github.com/jbinzak/cordova-plugin-idscan#readme"
+}
